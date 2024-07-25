@@ -1,7 +1,7 @@
 {
     "name": "Mbit_IR_V2",
     "version": "1.0.0",
-    "description": "Extension for YahBoom IR V2",
+    "description": "Extension for IR Remote",
     "dependencies": {
         "core": "*"
     },
