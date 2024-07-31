@@ -1,5 +1,5 @@
 {
-    "name": "Mbit_IR_V2",
+    "name": "IR-ACE",
     "version": "1.0.0",
     "description": "Extension for IR Remote",
     "dependencies": {
