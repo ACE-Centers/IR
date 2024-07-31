@@ -41,7 +41,7 @@ const enum IrProtocol {
   NEC = 1,
 }
 
-//% weight=10 color=#585CA9 icon="\uf1eb" block="IR Remote"
+//% weight=10 color=#585CA9 icon="\uf1eb" block="IR_ACE"
 namespace makerbit {
   let irState: IrState;
 
